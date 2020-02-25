@@ -1,0 +1,23 @@
+.buttons {
+	width: 180px;
+	cursor: pointer;
+	transition: 0.2s ease-in;
+    text-align: right;
+    font-family: 'Merriweather', serif;
+	background: #f2ede7;
+	display: flex;
+	font-size: 18px;
+	height: 50px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hod {
+    width: 200px;
+    height: 20px;
+    font-size: 18px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+}
